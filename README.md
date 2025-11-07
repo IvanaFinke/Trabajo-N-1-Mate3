@@ -1,4 +1,7 @@
-# Trabajo de modelado de datos y predicciones utilizando Regresión Lineal y Ridge
+<h1 align="center">
+  Trabajo de modelado de datos y predicciones utilizando Regresión Lineal y Ridge
+</h1>
+
 ### Universidad Nacional de San Martin - Matematica 3
 
 En este trabajo se utilizo el modelo de Regresión Lineal, que plasma graficamente la relación entre una variable escalar dependiente “y” y variables explicativas “X”. 
